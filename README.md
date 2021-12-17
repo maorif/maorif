@@ -1,7 +1,9 @@
 - :wave: Hi, I’m Maori
-- I’m interested in programming, software & game dev
-- I’m currently learning javaScript, HTML and CSS
-- I’m looking for a job/trainee opportunity
+- I have a undergraduate physics degree :mortar_board:
+- I’m currently learning javaScript, HTML, CSS and REACT in a FullStack program called DevinHouse
+- I’m looking for a first job/trainee opportunity 
+
+- I’m interested in programming, software & game dev and pixel art :space_invader:
 
 <div align="center">
   <a href="https://github.com/maorif">
