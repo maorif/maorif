@@ -19,13 +19,13 @@
  Some of my pixel art :)
 
  <div align="center" class='pixel-art-container'>
-  <a href='./my-pixel-art/shovel.png'><img src='./my-pixel-art/shovel.png' alt='pixel art image' width='100px'></a>
-  <a href='./my-pixel-art/sword.gif'><img src='./my-pixel-art/sword.gif' alt='pixel art image' width='100px'></a>
-  <a href='./my-pixel-art/tent2.png'><img src='./my-pixel-art/tent2.png' alt='pixel art image' width='100px'></a>
-  <a href='./my-pixel-art/christmas-256px.png'><img src='./my-pixel-art/christmas-256px.png' alt='pixel art image' width='100px'></a>
-  <a href='./my-pixel-art/panoris2.png'><img src='./my-pixel-art/panoris2.png' alt='pixel art image' width='100px'></a>
-  <a href='./my-pixel-art/jon.png'><img src='./my-pixel-art/jon.png' alt='pixel art image' width='100px'></a>
-  <a href='./my-pixel-art/Treasure_chest_full.gif'><img src='./my-pixel-art/Treasure_chest_full.gif' alt='pixel art image'width='100px'></a>
+  <a href='./my-pixel-art/shovel.png'><img src='./my-pixel-art/shovel.png' alt='pixel art image' width='150px'></a>
+  <a href='./my-pixel-art/sword.gif'><img src='./my-pixel-art/sword.gif' alt='pixel art image' width='150px'></a>
+  <a href='./my-pixel-art/tent2.png'><img src='./my-pixel-art/tent2.png' alt='pixel art image' width='150px'></a>
+  <a href='./my-pixel-art/christmas-256px.png'><img src='./my-pixel-art/christmas-256px.png' alt='pixel art image' width='150px'></a>
+  <a href='./my-pixel-art/panoris2.png'><img src='./my-pixel-art/panoris2.png' alt='pixel art image' width='150px'></a>
+  <a href='./my-pixel-art/jon.png'><img src='./my-pixel-art/jon.png' alt='pixel art image' width='150px'></a>
+  <a href='./my-pixel-art/Treasure_chest_full.gif'><img src='./my-pixel-art/Treasure_chest_full.gif' alt='pixel art image'width='150px'></a>
  </div>
   
 <!---
