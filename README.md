@@ -16,7 +16,17 @@
   <a href="https://www.linkedin.com/in/maori-f" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
- 
+ Some of my pixel art :)
+
+ <div align="center" class='pixel-art-container'>
+  <img src='./my-pixel-art/shovel.png' alt='pixel art image' width='100px'>
+  <img src='./my-pixel-art/sword.gif' alt='pixel art image' width='100px'>
+  <img src='./my-pixel-art/tent2.png' alt='pixel art image' width='100px'>
+  <img src='./my-pixel-art/christmas-256px.png' alt='pixel art image' width='100px'>
+  <img src='./my-pixel-art/panoris2.png' alt='pixel art image' width='100px'>
+  <img src='./my-pixel-art/jon.png' alt='pixel art image' width='100px'>
+  <img src='./my-pixel-art/Treasure_chest_full.gif' alt='pixel art image'width='100px'>
+ </div>
   
 <!---
 maorif/maorif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
