@@ -5,13 +5,13 @@
 
 - I’m interested in programming, software & game dev and pixel art :space_invader:
 
-<div align="left">
-  <a href="https://github.com/maorif">
+<div>
+  <a display="flex" flex-flow="row wrap" column-gap="10px" href="https://github.com/maorif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maorif&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maorif&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maorif&layout=compact&langs_count=7&theme=github_dark"/></a>
 </div>
   
-<div align="right">
+<div align="center">
   <a href ="mailto:maorif.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maori-f" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
