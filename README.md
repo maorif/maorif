@@ -1,4 +1,5 @@
 <h2> :wave: Hi, I’m Maori and I'm from Brasil :brazil: </h2>
+
 - I have a undergraduate physics degree :mortar_board:
 - I’m currently learning javaScript, HTML, CSS and REACT in a FullStack program called DevinHouse
 - I’m looking for a first job/trainee opportunity 
