@@ -1,4 +1,4 @@
-- :wave: Hi, I’m Maori
+- :wave: Hi, I’m Maori and I'm from Brasil :brazil:
 - I have a undergraduate physics degree :mortar_board:
 - I’m currently learning javaScript, HTML, CSS and REACT in a FullStack program called DevinHouse
 - I’m looking for a first job/trainee opportunity 
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/maori-f" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
- Some of my pixel art :)
+<h2> Some of my pixel art :) </h2>
 
  <div display="flex" flex-flow="row wrap" gap="5px" align="center" class='pixel-art-container'>
   <a href='./my-pixel-art/shovel.png'><img src='./my-pixel-art/shovel.png' alt='pixel art image' width='150px'></a>
