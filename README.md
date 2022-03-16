@@ -1,10 +1,12 @@
 <h2> :wave: Hi, I’m Maori and I'm from Brasil :brazil: </h2>
 
 - I have a undergraduate physics degree :mortar_board:
-- I’m currently learning javaScript, HTML, CSS and REACT in a FullStack program called DevinHouse
+- I’m currently learning ReactJS and .NET in a FullStack program called DevinHouse
+- I’m interested in programming, software & game dev and pixel art :space_invader:
 - I’m looking for a first job/trainee opportunity 
 
-- I’m interested in programming, software & game dev and pixel art :space_invader:
+- E-mail me: maorif.dev@gmail.com
+
 
 <div align="center">
   <a display="flex" gap="5px" href="https://github.com/maorif">
