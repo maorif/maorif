@@ -28,7 +28,7 @@
   <a href='./my-pixel-art/christmas-256px.png'><img src='./my-pixel-art/christmas-256px.png' alt='pixel art image' width='150px'></a>
   <a href='./my-pixel-art/panoris2.png'><img src='./my-pixel-art/panoris2.png' alt='pixel art image' width='150px'></a>
   <a href='./my-pixel-art/jon.png'><img src='./my-pixel-art/jon.png' alt='pixel art image' width='150px'></a>
-  <a href='./my-pixel-art/Treasure_chest_full.gif'><img src='./my-pixel-art/Treasure_chest_full.gif' alt='pixel art image'width='150px'></a>
+  <a href='./my-pixel-art/Treasure_chest_full.gif'><img src='./my-pixel-art/Treasure_chest_full.gif' alt='pixel art image' width='150px' height='150px'></a>
  </div>
   
 <!---
