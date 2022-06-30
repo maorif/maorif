@@ -1,9 +1,8 @@
 <h2> :wave: Hi, I’m Maori and I'm from Brasil :brazil: </h2>
 
 - I have a undergraduate physics degree :mortar_board:
-- I’m currently learning ReactJS and .NET in a FullStack program called DevinHouse
+- I’m currently a Fullstack Junior Dev
 - I’m interested in programming, software & game dev and pixel art :space_invader:
-- I’m looking for a first job/trainee opportunity 
 
 - E-mail me: maorif.dev@gmail.com
 
