@@ -1,7 +1,7 @@
 <h2> :wave: Hi, I’m Maori and I'm from Brasil :brazil: </h2>
 
 - I have a undergraduate physics degree :mortar_board:
-- I’m currently a Fullstack Junior Dev
+- I’m a Fullstack Developer
 - I’m interested in programming, software & game dev and pixel art :space_invader:
 
 - E-mail me: maorif.dev@gmail.com
